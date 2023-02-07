@@ -26,6 +26,7 @@ nav ul li{
 nav a{
     /* Set text decoration*/
     text-decoration: none;
+    color: #000000;
 }
 
 a:visited{
