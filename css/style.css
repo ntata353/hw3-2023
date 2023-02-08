@@ -58,7 +58,7 @@ h1{
 h2{
     /*Set font, font size, and alignment*/
     font-size: 28px;
-    font-family: Merriweather, Anton, "Times New Roman", "Gill Sans";
+    font-family: Anton, "Times New Roman", "Gill Sans";
     text-align: center;
 }
 
